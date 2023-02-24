@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+html{
+  @apply h-[100%];
+}
+body{
+  @apply h-[100%];
+}
+div#_next{
+  @apply h-[100%];
+}

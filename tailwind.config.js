@@ -6,7 +6,11 @@ module.exports = {
   ],
 
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage:{
+        'hero':"url('/bg.svg')"
+      }
+    },
     colors: {
       
       purple:'#a026ff',
